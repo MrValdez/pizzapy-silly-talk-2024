@@ -1,6 +1,6 @@
 This is a public repo for my talk on PizzaPy's #74 meetup.
 
-![screenshot](screenshot.png)
+![screenshot](https://raw.githubusercontent.com/MrValdez/pizzapy-silly-talk-2024/main/screenshot.png)
 
 # [PizzaPy Meetup #74] Silly Software Show-off and PizzaPy Website Launch
 - https://www.facebook.com/events/1256348185742209/
