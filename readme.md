@@ -13,7 +13,7 @@ This is a public repo for my talk on PizzaPy's #74 meetup.
 - windows-curses
 
 # Download source library
-$ yt-dlp https://www.youtube.com/watch?v=dQw4w9WgXcQ -f 605 -o dQw4w9WgXcQ.mp4
+$ yt-dlp https://www.youtube.com/watch?v=dQw4w9WgXcQ -f 605 -o dQw4w9WgXcQ.mp4  
 $ ffmpeg -i dQw4w9WgXcQ.mp4 -vf fps=1 out%d.png
 
 # others
